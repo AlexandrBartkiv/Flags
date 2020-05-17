@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.ukr {
+  margin-top: 5rem;
+  height: 150px;
+  width: 300px;
+}
+
+.ukr #ukr_blue {
+  background-color: blue;
+  height: 75px;
+  width: 300px;
+}
+
+.ukr #ukr_yellow {
+  background-color: yellow;
+  height: 75px;
+  width: 300px;
+}
+
+.jap {
+  height: 150px;
+  width: 300px;
+  background-color: whitesmoke;
+  margin-top: 5rem;
+}
+
+.jap #circle {
+  background-color: red;
+  width: 80px;
+  height: 80px;
+  border-radius: 41px;
+  margin: auto;
+  margin-top: auto;
+  margin-top: 37px;
+}
+
+.isl {
+  height: 150px;
+  width: 300px;
+  background-color: blue;
+  margin-top: 5rem;
+}
+
+.isl #isl_1 {
+  height: 150px;
+  width: 40px;
+  background-color: white;
+  margin-left: 80px;
+}
+
+.isl #isl_2 {
+  height: 40px;
+  width: 300px;
+  background-color: white;
+  bottom: 93px;
+  position: relative;
+}
+
+.isl #isl_3 {
+  height: 150px;
+  width: 20px;
+  background-color: red;
+  margin-left: 88px;
+  position: relative;
+  bottom: 190px;
+}
+
+.isl #isl_4 {
+  height: 20px;
+  width: 300px;
+  background-color: red;
+  bottom: 272px;
+  position: relative;
+}
+
+.czh {
+  height: 150px;
+  width: 300px;
+  margin-top: 5rem;
+}
+
+.czh #czh_white {
+  width: 300px;
+  height: 75px;
+  background-color: whitesmoke;
+}
+
+.czh #czh_red {
+  width: 300px;
+  height: 75px;
+  background-color: red;
+}
+
+.czh #czh_blue {
+  width: 22px;
+  height: 0px;
+  border-left: solid 124px blue;
+  border-bottom: solid 70px transparent;
+  border-top: solid 70px transparent;
+  bottom: 143px;
+  position: relative;
+}
+/*# sourceMappingURL=index.css.map */
